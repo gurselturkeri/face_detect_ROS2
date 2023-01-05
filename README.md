@@ -9,5 +9,6 @@
 </h1>
 
 
-
--![A Concise Introduction to Robot Programming with ROS2 ](http://library.lol/main/CAD8E6CC37B30B832453DBA239465C47)
+## Requirements:
+- Opencv 2.x, 3.x, 4.x
+-![haarcascade_frontalface_default.xml](https://github.com/opencv/opencv/blob/master/data/haarcascades/haarcascade_frontalface_default.xml)
