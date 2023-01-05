@@ -14,3 +14,5 @@
 
 - ![haarcascade_frontalface_default.xml](https://github.com/opencv/opencv/blob/master/data/haarcascades/haarcascade_frontalface_default.xml)
 - ROS2 
+To communicate ROS2 and our face detection python scripts,we should create basic publisher in our code.![Writing a simple publisher and subscriber (Python)](https://docs.ros.org/en/foxy/Tutorials/Beginner-Client-Libraries/Writing-A-Simple-Py-Publisher-And-Subscriber.html). When face is detected this information will publish to topic.
+![Screenshot from 2023-01-06 00-40-44](https://user-images.githubusercontent.com/68682737/210890293-3338fb49-cba1-458a-be15-e4f1ce74ba14.png)
