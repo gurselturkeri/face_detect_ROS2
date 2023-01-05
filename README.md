@@ -12,4 +12,4 @@
 ## Requirements:
 - OpenCV 2.x, 3.x, 4.x
 
--![haarcascade_frontalface_default.xml](https://github.com/opencv/opencv/blob/master/data/haarcascades/haarcascade_frontalface_default.xml)
+- ![haarcascade_frontalface_default.xml](https://github.com/opencv/opencv/blob/master/data/haarcascades/haarcascade_frontalface_default.xml)
